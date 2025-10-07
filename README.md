@@ -58,3 +58,5 @@ Players control a paddle to bounce a ball and break bricks. The game includes fe
 ```bash
 git clone https://github.com/ayaanazhar16/Brick-Breaker-Game.git
 cd "Tkinter Game"
+
+pip install pillow on Terminal
